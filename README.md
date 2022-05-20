@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snmhz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snmhz&bg_color=30,e96443,904e95,e96443&title_color=fff&text_color=fff&hide=stars&show_icons=true&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=snmhz325)](https://solved.ac/snmhz325)
