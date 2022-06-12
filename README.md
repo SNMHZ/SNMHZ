@@ -8,7 +8,7 @@
   
 <h4>
   <br/>
-  &nbsp Boostcamp AI Tech, 3rd (NAVER Connect Foundation) (2022.01 ~ )
+  &nbsp Boostcamp AI Tech, 3rd (NAVER Connect Foundation) (2022.01 ~ 2022.06)
   <br/>
   <br/>
   &nbsp Kyungpook National University, Bachelor of Software (2016.03 ~ 2022.02)
