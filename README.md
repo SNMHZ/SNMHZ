@@ -8,6 +8,9 @@
   
 <h4>
   <br/>
+  &nbsp Hyundai Card, Software Engineer (2023.02 ~ )
+  <br/>
+  <br/>
   &nbsp Boostcamp AI Tech, 3rd (NAVER Connect Foundation) (2022.01 ~ 2022.06)
   <br/>
   <br/>
