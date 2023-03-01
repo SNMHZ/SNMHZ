@@ -24,7 +24,9 @@
   
   <br/>
   <br/>
+  <br/>
   
+<!--
 <h3 align="center"> Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
@@ -42,10 +44,21 @@
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"/></a>&nbsp 
 </div>
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=snmhz325)](https://solved.ac/snmhz325)
+-->
+
+  
+<h3 align="center"> Interested in</h3>
+  <h4>
+    &nbsp MLOps <br/> <br/>
+    &nbsp Data Engineering <br/> <br/>
+    &nbsp Recommendation System <br/> <br/>
+    &nbsp Financial Engineering <br/> <br/>
+  </h4>
   
 
   
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=snmhz325)](https://solved.ac/snmhz325)
+
 
   <br/>
   <br/>
